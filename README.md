@@ -1,1 +1,1 @@
-# Math-Buddy
+# MathBuddy
